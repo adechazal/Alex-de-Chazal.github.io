@@ -1,27 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
-    margin: 0;
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:18px;
+  color:#444;
+  padding:0 10px;
 }
 
-.container {
-    max-width: 650px;
-    margin: 40px auto;
-    padding: 0px 10px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.container p {
-    margin-bottom: 20px;
-}
-
-.container a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.container a:hover {
-    text-decoration: underline;
+h1,h2,h3{
+  line-height:1.2
 }
